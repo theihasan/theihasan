@@ -9,7 +9,7 @@
 
 - 🌱 I'm specializing in **PHP, Laravel, and Livewire**
 
-- 👨‍💻 All of my projects are available at [ihasan.me](ihasan.me)
+- 👨‍💻 My blogs are available at [ihasan.me](ihasan.me)
 
 - 💡 Background in **Mathematics (BSc)**
 
