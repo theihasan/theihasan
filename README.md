@@ -15,11 +15,9 @@
 
 - 💼 Professional Experience: **1 year of development, learning since 2017**
 
-### About Geezap
-🚀 [Geezap](https://geezap.com) is a comprehensive job aggregation platform that:
-- Collects jobs from multiple sources (LinkedIn, Upwork, Indeed, ZipRecruiter)
-- Generates AI-powered cover letters
-- Helps track job applications (saved, applied, etc.)
+### Featured Project:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theihasan&repo=geezap&theme=radical)](https://github.com/theihasan/geezap)
 
 ### My Tech Stack:
 
@@ -45,9 +43,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theihasan&theme=radical" alt="theihasan" /></p>
 
-### Featured Project:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theihasan&repo=geezap&theme=radical)](https://github.com/theihasan/geezap)
 
 ### Connect with me:
 <p align="left">
