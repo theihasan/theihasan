@@ -1,7 +1,21 @@
 <h1 align="center">Hi 👋, I'm Md Abul Hassan</h1>
 <h3 align="center">A passionate Laravel Developer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theihasan&label=Profile%20views&color=0e75b6&style=flat" alt="theihasan" /> </p>
+
+### GitHub Stats:
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+<p><img style="margin-right: 20px;" src="https://komarev.com/ghpvc/?username=theihasan&label=Profile%20views&color=0e75b6&style=flat" alt="theihasan" /></p>
+
+<p><img style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=theihasan&show_icons=true&locale=en&layout=compact&theme=radical" alt="theihasan" /></p>
+
+<p><img style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=theihasan&show_icons=true&locale=en&theme=radical" alt="theihasan" /></p>
+
+<p><img style="margin-right: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=theihasan&theme=radical" alt="theihasan" /></p>
+
+</div>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theihasan" alt="theihasan" /></a> </p>
 
