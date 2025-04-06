@@ -12,7 +12,7 @@
 
 - 💡 Background in **Mathematics (BSc)**
 
-- 💼 Professional Experience: **1 year of development, learning since 2017**
+- 💼 Professional Experience: **2 years of development, learning since 2017**
 
 ### Featured Project:
 
