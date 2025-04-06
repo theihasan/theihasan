@@ -1,51 +1,90 @@
-<h1 align="center">Hi 👋, I'm Md Abul Hassan</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theihasan&label=Profile%20views&color=0e75b6&style=flat" alt="theihasan" /> </p>
+<!-- ====== Md Abul Hassan's Profile ====== -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theihasan" alt="theihasan" /></a> </p>
+<div align="center">
+  <h1>Md Abul Hassan</h1>
+  <h3>Software Engineer | PHP, Laravel & Livewire Enthusiast</h3>
+</div>
 
-- 🔭 I work on [Geezap](https://geezap.com) when I get free time.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=theihasan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-- 🌱 I'm specializing in **PHP, Laravel, and Livewire**
+---
 
-- 👨‍💻 My blogs are available at [ihasan.me](https://ihasan.me)
+## ✨ About Me
 
-- 💡 Background in **Mathematics (BSc)**
+I'm a passionate Software Engineer from Bangladesh with a strong background in mathematics (BSc) and over **2 years** of professional experience. I have been coding since 2017 and enjoy working on innovative projects like [Geezap](https://geezap.com).
 
-- 💼 Professional Experience: **2 years of development, learning since 2017**
+- **Specialties:** PHP, Laravel, Livewire, Filament PHP, Bagisto  
+- **Blog:** [ihasan.me](https://ihasan.me)
 
-### Featured Project:
+---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=theihasan&repo=geezap&theme=radical)](https://github.com/theihasan/geezap)
+## 🚀 Projects & Highlights
 
-### My Tech Stack:
+### Featured Project
+<div align="center">
+  <a href="https://github.com/theihasan/geezap" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=theihasan&repo=geezap&theme=radical" alt="Geezap Project" style="max-width:100%;"/>
+  </a>
+</div>
 
-**Backend Development:**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
+---
 
-**Frontend Development:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+## 💻 Tech Stack
 
-**CMS:**
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+### Backend
+| Technology      | Badge |
+|-----------------|-------|
+| **PHP**         | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **Laravel**     | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) |
+| **Livewire**    | ![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white) |
+| **Filament PHP**| ![Filament PHP](https://img.shields.io/badge/Filament%20PHP-6366F1?style=flat&logo=laravel&logoColor=white) |
+| **Bagisto**     | ![Bagisto](https://img.shields.io/badge/Bagisto-FF5722?style=flat&logo=laravel&logoColor=white) |
 
-### GitHub Stats:
+### Frontend
+| Technology       | Badge |
+|------------------|-------|
+| **HTML5**        | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| **CSS3**         | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| **JavaScript**   | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Tailwind CSS** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theihasan&show_icons=true&locale=en&layout=compact&theme=radical" alt="theihasan" /></p>
+### CMS
+| Technology  | Badge |
+|-------------|-------|
+| **WordPress** | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white) |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=theihasan&show_icons=true&locale=en&theme=radical" alt="theihasan" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theihasan&theme=radical" alt="theihasan" /></p>
+## 📊 GitHub Insights
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theihasan&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=theihasan&theme=radical" alt="Streak Stats" style="margin-top: 20px;"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=theihasan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" style="margin-top: 20px;"/>
+</div>
 
-### Connect with me:
-<p align="left">
-<a href="https://twitter.com/theihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theihasan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/theihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theihasan" height="30" width="40" /></a>
-<a href="https://fb.com/theihasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theihasan" height="30" width="40" /></a>
-</p>
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="https://twitter.com/theihasan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/theihasan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://fb.com/theihasan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <i>Crafting code and ideas since 2017.</i>
+</div>
