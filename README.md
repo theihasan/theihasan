@@ -1,5 +1,6 @@
 <!-- ====== Md Abul Hassan's Profile ====== -->
-<img width="1584" alt="Abul Hassan Cover" src="https://github.com/user-attachments/assets/cd009bfa-aad0-435d-9d34-b75f1e0a895d" />
+<img width="1280" alt="github banner" src="https://github.com/user-attachments/assets/71178218-7363-4a6d-941b-0881cb36b267" />
+
 
 <div align="center">
   <h1>Md Abul Hassan</h1>
